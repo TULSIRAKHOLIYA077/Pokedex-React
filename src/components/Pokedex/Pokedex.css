@@ -1,7 +1,5 @@
-.pokedex-wrapper{
+.pokedex-wrapper {
   display: flex;
   flex-direction: column;
 }
-#pokedex-heading{
-  margin: 0 auto;
-}
+
