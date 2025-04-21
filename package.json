@@ -2,7 +2,7 @@
   "name": "pokedex",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://tulsirakholiya077.github.io/Pokedex-React",
+  "homepage": "https://TULSIRAKHOLIYA077.github.io/Pokedex-React",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -10,7 +10,7 @@
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
 
   },
   "dependencies": {
